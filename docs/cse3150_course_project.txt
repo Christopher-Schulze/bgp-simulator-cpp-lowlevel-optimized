@@ -1,0 +1,4 @@
+This repository stores the CSE3150 project specification as Markdown in
+`CSE3150_project_specification.md`. Please refer to that file for the
+full assignment text and grading criteria.
+

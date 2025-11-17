@@ -1,0 +1,49 @@
+# Build directories
+build/
+cmake-build*/
+Debug/
+Release/
+
+# Compiler artifacts
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.dylib
+bgp_sim
+*.swp
+*.swo
+
+
+# Data files (except test data)
+data/*.bz2
+data/*.csv
+
+# CMake files
+CMakeFiles/
+cmake_install.cmake
+Makefile
+cmake/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Hidden directories (except .git, .gitignore)
+.*
+!.git
+!.gitignore
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Test files
+test_*.csv
+test_*.txt
+scripts/tests/mini_actual*.csv
+scripts/tests/*.sorted
+
+# PDF
+*.pdf
