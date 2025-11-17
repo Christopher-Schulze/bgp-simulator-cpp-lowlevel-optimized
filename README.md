@@ -140,7 +140,6 @@ ASes in `rov_asns.csv` drop announcements with `rov_invalid=True` at receive tim
 
 - **[docs/documentation.md](docs/documentation.md)**: Detailed technical documentation
 - **[CSE3150_project_specification.md](CSE3150_project_specification.md)**: Original CSE3150 project specification
-- **[docs/implementation_notes.txt](docs/implementation_notes.txt)**: Design decisions and rationale
 
 ## License
 
